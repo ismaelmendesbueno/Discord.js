@@ -3,7 +3,7 @@ const ytdl = require("ytdl-core");
 
 const client = new Discord.Client();
 
-const TOKEN = 'OTAwMTQyNjA4NTA3MDkzMDgy.YW9BIQ.XWe3ku4U-LGN3YiXskKeJRVWmGI'
+const TOKEN = ''
 
 const negao = "Negao"
 const leo = "Leozin"
